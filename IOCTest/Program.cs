@@ -47,7 +47,8 @@ namespace IOCTest
                 Container = builder.Build();
                 WriteDate();
             }
-            Console.ReadLine();//
+            Console.ReadLine();
+            //1790555124提交的
         }
 
         public static void WriteDate()
