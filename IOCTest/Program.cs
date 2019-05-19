@@ -48,7 +48,6 @@ namespace IOCTest
                 WriteDate();
             }
             Console.ReadLine();
-            //1790555124提交的
         }
 
         public static void WriteDate()
