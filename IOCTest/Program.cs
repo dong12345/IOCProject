@@ -46,6 +46,7 @@ namespace IOCTest
                 builder.RegisterType<TomorrowWriter>().As<IDateWriter>();
                 Container = builder.Build();
                 WriteDate();
+                //公司电脑提交注释
             }
             Console.ReadLine();
         }
